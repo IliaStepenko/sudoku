@@ -1,2 +1,4 @@
 __pycache__
 venv
+templates/js/jquery.*
+templates/js/jquery-3.3.1.*
